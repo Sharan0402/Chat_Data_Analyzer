@@ -1,5 +1,7 @@
 # Chat_Data_Analyzer
 
+To use the app go to https://chatdataanalyzer.streamlit.app/ , upload the chat backup(.txt file) in dd/mm/yyyy 24hr clock format 
+
 Here is a quick demo of how this works.
  
 <img width="332" alt="Screenshot 2024-01-23 at 2 21 06 PM" src="https://github.com/Sharan0402/Chat_Data_Analyzer/assets/154643068/9fe33349-872f-47a9-a32b-1b997fe6735b">
